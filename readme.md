@@ -18,4 +18,8 @@
 - [Resolução exercícios (slide 2 - p 44) e (slide 3 - p 17)](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%201%20-%20introdu%C3%A7%C3%A3o%20%C3%A0%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/resolu%C3%A7%C3%A3o.pdf)
 
 #### Estrutura de seleção
-- []
+- [Conteúdo](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%202%20-%20Estruturas%20de%20sele%C3%A7%C3%A3o/Aula%204%20-%20Estrutura%20de%20Sele%C3%A7%C3%A3o.pdf)
+- [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%202%20-%20Estruturas%20de%20sele%C3%A7%C3%A3o/Lista%2001%20-%20Operadores%20e%20estruturas%20de%20sele%C3%A7%C3%A3o.pdf)
+- [Resolução dos exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%202%20-%20Estruturas%20de%20sele%C3%A7%C3%A3o/Atividade_AER_Guilherme_Amarilho.pdf)
+
+
