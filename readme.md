@@ -22,4 +22,9 @@
 - [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%202%20-%20Estruturas%20de%20sele%C3%A7%C3%A3o/Lista%2001%20-%20Operadores%20e%20estruturas%20de%20sele%C3%A7%C3%A3o.pdf)
 - [Resolução dos exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%202%20-%20Estruturas%20de%20sele%C3%A7%C3%A3o/Atividade_AER_Guilherme_Amarilho.pdf)
 
+#### Estrutura de repetição
+- [Conteúdo](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%203%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o/Aula%205%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o.pdf)
+- [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%203%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o/Lista%2002%20-%20Estruturas%20de%20repeti%C3%A7%C3%A3o.pdf)
+- [Resolução dos exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%203%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o/Exerccios_avaliados_07-05.pdf)
+
 
