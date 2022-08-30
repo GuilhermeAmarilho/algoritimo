@@ -27,4 +27,4 @@
 - [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%203%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o/Lista%2002%20-%20Estruturas%20de%20repeti%C3%A7%C3%A3o.pdf)
 - [Resolução dos exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%203%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o/Exerccios_avaliados_07-05.pdf)
 
-
+#### Programação em C
