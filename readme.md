@@ -59,3 +59,9 @@
 - [Exercício escola](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/exercicio_escola_Ponteiro.c)
 - [Exercício Lista](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/exercicio_listaX_ponteiro.c)
 - [Exercício dados pessoais](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/exercicio_pessoa_ponteiro.c)
+
+#### Projeto Final
+- [Relatório](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%2010%20-%20Projeto%20Final/DESENVOLVIMENTO%20DE%20SOFTWARE%20PARA%20O%20C%C3%81LCULO%20DE%20PI%20UTILIZANDO%20O%20M%C3%89TODO%20DE%20APROXIMA%C3%87%C3%83O%20DE%20MONTE%20CARLO.pdf)
+- [Código projeto final](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%2010%20-%20Projeto%20Final/TRABALHO%20FINAL.c)
+- [Código PI](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%2010%20-%20Projeto%20Final/pi.c)
+- [Ponto adicional - Lista de trade](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%2010%20-%20Projeto%20Final/trade.c)
