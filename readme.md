@@ -48,3 +48,14 @@
 - [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%206%20-%20Vetores%20e%20matrizes/Lista%2004%20-%20Vetores%20e%20Matrizes%20I.pdf)
 - [Resolução da lista](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%207%20-%20Modulariza%C3%A7%C3%A3o/exercicio_25-06.c)
 
+#### Registros
+- [Conteúdo](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%208%20-%20Registros/Aula%206%20-%20Estruturas%20de%20dados_%20vetores%2C%20matrizes%20e%20registros.txt)
+- [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%208%20-%20Registros/Lista%2005_%20exerc%C3%ADcios%20de%20registros.pdf)
+- [Exercício ponteiro](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%208%20-%20Registros/exercicio_pessoa_sem_ponteiro.c)
+
+#### Ponteiro e Alocação dinâmica de memória
+- [Conteúdo](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/Aula%208%20-%20Ponteiros%20e%20Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria.pdf)
+- [Lista de exercícios](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/Lista%2005_%20exerc%C3%ADcios%20de%20registros.pdf)
+- [Exercício escola](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/exercicio_escola_Ponteiro.c)
+- [Exercício Lista](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/exercicio_listaX_ponteiro.c)
+- [Exercício dados pessoais](https://github.com/GuilhermeAmarilho/algoritimo/blob/master/Aula%209%20-%20Ponteiro%20e%20ADM/exercicio_pessoa_ponteiro.c)
